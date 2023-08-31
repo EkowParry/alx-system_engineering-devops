@@ -1,2 +1,2 @@
 #!/binbash
-su betty /n
+sudo su betty /n
