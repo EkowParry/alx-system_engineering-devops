@@ -1,0 +1,3 @@
+#!/binbash
+su -i betty
+/n
